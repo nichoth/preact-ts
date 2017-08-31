@@ -1,7 +1,4 @@
 {
-    "files": [
-        "index.tsx"
-    ],
     "compilerOptions": {
         "allowJs": true,
         "jsx": "react",

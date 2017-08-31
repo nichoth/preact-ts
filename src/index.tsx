@@ -8,4 +8,4 @@ function log (s: string) {
 log('hello')
 
 // render an instance of Clock into <body>:
-render(<Clock />, document.body);
+render(<Clock />, document.body)
