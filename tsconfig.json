@@ -1,0 +1,13 @@
+{
+    "files": [
+        "index.tsx"
+    ],
+    "compilerOptions": {
+        "allowJs": true,
+        "jsx": "react",
+        "jsxFactory": "h",
+        "target": "es5",
+        "strictNullChecks": true
+    },
+    "exclude": ["node_modules"]
+}
